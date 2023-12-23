@@ -34,3 +34,15 @@ By the end of this Specialization, you will be ready to:
 • Build a deep reinforcement learning model.
 
 Source: https://www.coursera.org/specializations/machine-learning-introduction
+
+
+
+### Bibliography
+
+Optimizadores de Tensorflow: 
+1 - Adam:
+https://www.youtube.com/watch?v=QFys1W2NAAc
+
+2 - Varios optimizadores:
+
+https://medium.com/latinxinai/optimizadores-5123992d344c
