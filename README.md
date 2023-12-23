@@ -46,3 +46,10 @@ https://www.youtube.com/watch?v=QFys1W2NAAc
 2 - Varios optimizadores:
 
 https://medium.com/latinxinai/optimizadores-5123992d344c
+
+Varios:
+
+1 - Computer Physics. Oslo University:
+
+https://compphysics.github.io/ComputationalPhysics2/doc/pub/cg/pdf/cg-print.pdf
+
